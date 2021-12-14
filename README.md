@@ -12,6 +12,9 @@ RhythmTimeline is useful when you want to create a production that is synchroniz
 
 ![gif](desc/rhythmtimeline_gif.gif)
 
+# Dependencies
+- UniRx
+
 # TODO
 - Editor Preview.
 
